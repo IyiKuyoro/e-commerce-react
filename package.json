@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/IyiKuyoro/e-commerce-react/issues"
   },
-  "homepage": "https://github.com/IyiKuyoro/e-commerce-react#readme"
+  "homepage": "https://github.com/IyiKuyoro/e-commerce-react#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.6.0",
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "@babel/preset-react": "^7.0.0"
+  }
 }
